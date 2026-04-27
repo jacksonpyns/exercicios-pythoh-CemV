@@ -1,2 +1,3 @@
-# exercicios-pythoh-CemV
-Metrial do Curso de Python do Cuso em Video
+# Exercícios de Python do Curso em Video
+
+Material do Curso de Python Curso em Vídeo
