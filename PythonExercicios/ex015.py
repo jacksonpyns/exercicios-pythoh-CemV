@@ -1,0 +1,7 @@
+print('Escreva um Programa que pergunte a quantidade de Km percorrido por um carro alugado \ne a quantidade de dias pelos quais ele foi alugado.')
+print('Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.')
+print('-'*20)
+dias=int(input('Quantos dias alugados? '))
+km=float(input('Quantos Km rodados? '))
+custo=(dias*60)+(km*0.15)
+print('O total a pagar é de R${:.2f}'.format(custo))
